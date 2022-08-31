@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,EACE,kBACF,CAMA,4BAEE,aACF,CAEA,QACE,oBAAqB,CACrB,aACF","file":"main.5f560b88.chunk.css","sourcesContent":["p {\n  margin-bottom: 0.3em;\n}\n\n.text-highlight {\n  color: #00b3c9;\n}\n\na,\na:visited {\n  color: #00b3c9;\n}\n\na:hover {\n  text-decoration: none;\n  color: #008292;\n}\n"]}
